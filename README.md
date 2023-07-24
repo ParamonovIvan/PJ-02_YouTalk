@@ -20,4 +20,10 @@
 
 https://paramonovivan.github.io/YouTalk-for-Skillfactory_PJ-02/pages/article.html
 
+![Uploading Blog.jpg…]()
+
+
 https://paramonovivan.github.io/YouTalk-for-Skillfactory_PJ-02/pages/blog.html
+
+![Uploading Blog1.jpg…]()
+
