@@ -1,4 +1,23 @@
-# YouTalk-for-Skillfactory![nav_logo](https://github.com/ParamonovIvan/YouTalk-for-Skillfactory_PJ-02/assets/131868856/b3a2e630-e58d-42a5-a1c5-a42f61925966)
+# YouTalk for Skillfactory![nav_logo](https://github.com/ParamonovIvan/YouTalk-for-Skillfactory_PJ-02/assets/131868856/b3a2e630-e58d-42a5-a1c5-a42f61925966)
+
+Реальный кейс от компании YouTalk (партнёра Skillfactory)
+
+Основные задачи:
+• Закрепить на практике знания CSS, полученные в предыдущих модулях.
+• Создать гибкую адаптивную верстку для сайта.
+• Попрактиковаться в использовании медиа-запросов и CSS Grid.
+• Научиться работать с графическим онлайн-редактором Figma.
+
+Функциональные требования:
+• Соблюдать семантическую вёрстку. Использовать теги <header>, <main> и <footer>, а также <section> и <article>. Кнопки должны быть реализованы элементом <button>. Картинки можно вставить как в HTML, с помощью тега <img>, так и через CSS-свойство background-image. В случае вставки изображения через <img> должен быть прописан атрибут alt.
+• Использовать псевдоэлементы и псевдоклассы.
+• При наведении курсора на любые кликабельные элементы должен появляться cursor: pointer.
+• Сделать свою верстку доступной.
+• Использовать методологию БЭМ для наименования классов.
+• Сделать верстку для различных устройств: десктоп, планшет и мобильные телефоны.
+• Иконки должны быть экспортированы в SVG-формате, а картинки — в PNG.
+• Выкложить проект на GitHub.
+
 https://paramonovivan.github.io/YouTalk-for-Skillfactory_PJ-02/pages/article.html
 
 https://paramonovivan.github.io/YouTalk-for-Skillfactory_PJ-02/pages/blog.html
