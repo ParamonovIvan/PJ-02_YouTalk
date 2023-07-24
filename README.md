@@ -18,9 +18,9 @@
 • Иконки должны быть экспортированы в SVG-формате, а картинки — в PNG.</br>
 • Выкложить проект на GitHub.</br>
 
-Ссылки на страницы:
+Ссылки на страницы:<br>
 • https://paramonovivan.github.io/YouTalk-for-Skillfactory_PJ-02/pages/article.html<br>
-• https://paramonovivan.github.io/YouTalk-for-Skillfactory_PJ-02/pages/blog.html
+• https://paramonovivan.github.io/YouTalk-for-Skillfactory_PJ-02/pages/blog.html<br>
 
 
 Страница со статьей блога
