@@ -19,7 +19,7 @@
 • Выкложить проект на GitHub.</br>
 
 Ссылки на страницы:
-• https://paramonovivan.github.io/YouTalk-for-Skillfactory_PJ-02/pages/article.html
+• https://paramonovivan.github.io/YouTalk-for-Skillfactory_PJ-02/pages/article.html<br>
 • https://paramonovivan.github.io/YouTalk-for-Skillfactory_PJ-02/pages/blog.html
 
 
