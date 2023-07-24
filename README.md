@@ -1,6 +1,6 @@
 # YouTalk for Skillfactory ![nav_logo](https://github.com/ParamonovIvan/YouTalk-for-Skillfactory_PJ-02/assets/131868856/b3a2e630-e58d-42a5-a1c5-a42f61925966)
 
-Реальный кейс от компании YouTalk (партнёра Skillfactory)</br>
+Реальный кейс от компании YouTalk (партнёра Skillfactory)</br></br>
 
 Основные задачи:</br>
 • Закрепить на практике знания CSS, полученные в предыдущих модулях.</br>
