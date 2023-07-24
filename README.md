@@ -22,12 +22,12 @@
 • https://paramonovivan.github.io/YouTalk-for-Skillfactory_PJ-02/pages/article.html<br>
 • https://paramonovivan.github.io/YouTalk-for-Skillfactory_PJ-02/pages/blog.html<br><br>
 
-‣<b>Результат работы - Страница со статьей блога</b><br>
+‣ <b>Результат работы - Страница со статьей блога</b><br>
 
 ![Blog](https://github.com/ParamonovIvan/YouTalk-for-Skillfactory_PJ-02/assets/131868856/f4e78e9a-94e5-485c-96e0-24bbbf27ab82)
 
 <br><br>
-‣<b>Результат работы - Главная страница блога</b><br>
+‣ <b>Результат работы - Главная страница блога</b><br>
 
 ![Blog1](https://github.com/ParamonovIvan/YouTalk-for-Skillfactory_PJ-02/assets/131868856/8196f867-c4f5-4e0e-973f-76c9b0f537a2)
 
