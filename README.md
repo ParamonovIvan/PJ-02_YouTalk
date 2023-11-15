@@ -32,9 +32,9 @@
 
 #### Ссылка на страницы:
 
-+ https://paramonovivan.github.io/YouTalk-for-Skillfactory_PJ-02/pages/article.html
++ https://paramonovivan.github.io/YouTalk_PJ-02/pages/article.html
 
-+ https://paramonovivan.github.io/YouTalk-for-Skillfactory_PJ-02/pages/blog.html
++ https://paramonovivan.github.io/YouTalk_PJ-02/pages/blog.html
 
 #### Внешний вид страницы
 
