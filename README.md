@@ -1,6 +1,4 @@
-# YouTalk for Skillfactory
-
-Реальный кейс от компании YouTalk (партнера Skillfactory)
+# Проект: Реальный кейс от компании «Youtalk»
 
 ### Основные задачи:
 
