@@ -45,3 +45,4 @@
 + Главная страница блога
 
 ![Blog1](https://github.com/ParamonovIvan/YouTalk-for-Skillfactory_PJ-02/assets/131868856/8196f867-c4f5-4e0e-973f-76c9b0f537a2)
+
