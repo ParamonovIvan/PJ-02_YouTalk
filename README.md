@@ -32,9 +32,9 @@
 
 #### Ссылка на страницы:
 
-+ https://paramonovivan.github.io/YouTalk_PJ-02/pages/article.html
++ https://paramonovivan.github.io/PJ-02_YouTalk/pages/article.html
 
-+ https://paramonovivan.github.io/YouTalk_PJ-02/pages/blog.html
++ https://paramonovivan.github.io/PJ-02_YouTalk/pages/blog.html
 
 #### Внешний вид страницы
 
